@@ -1,0 +1,19 @@
+{
+  "source_skill": "chat-distill",
+  "source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "df8d7c66181749d4d422f8cdab7e94a58179467d40cf04b5434e88a41282ae29"
+    },
+    {
+      "path": "scripts/check_essence.py",
+      "sha256": "be4979e8fe97f457ac38ed58d7b168e535feae4a8cfa8389454143f984b162dd"
+    },
+    {
+      "path": "scripts/export_chat_log.py",
+      "sha256": "a7f9f2e2ab17329471879721663ca25f5d558d825660b9a61205ff621ecd93bb"
+    }
+  ],
+  "adaptation": "Public project-input workflow retaining substantive helpers and method, with synthetic fixtures and executable receiving checks.",
+  "proof": "Deterministic local receiving examples; fresh-session model behavior is not certified."
+}

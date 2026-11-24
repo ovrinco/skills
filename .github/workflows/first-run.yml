@@ -1,0 +1,19 @@
+name: Source and example checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  examples:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Verify source and examples
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: |
+          sha256sum --quiet -c SHA256SUMS
+          for skill in behavioral-spec-author charter-author decision-record-author design-stage holdout-extract skill-proof verifier project-backup system-tracker omawhatsapp; do
+            (cd "$skill" && python3 examples/check.py)
+          done
+          (cd ian-lights && python3 -m unittest discover -s assets/tests -p test_control.py)

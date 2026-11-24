@@ -1,0 +1,4 @@
+Current behavior record
+alpha=1 -> accepted
+beta=2 -> accepted
+=value -> accepted

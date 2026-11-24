@@ -1,0 +1,1 @@
+Using the bundled synthetic-device tests, set the ring to #aa5522 while preserving centers and other headers. Show why the profile sends (85,170,34) to the fan span. Check that a failed hardware write preserves the saved state and that status/preset operations never connect. Do not operate real hardware.

@@ -1,0 +1,1 @@
+Atlas must parse name=value and provide a command that prints valid rows. No parser source exists. Two contributors can own src/parser and src/cli separately. The CLI consumes parse_line(text) returning a pair or an error. An integration owner checks both.

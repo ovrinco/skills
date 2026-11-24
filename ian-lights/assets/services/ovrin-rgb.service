@@ -1,0 +1,14 @@
+[Unit]
+Description=OVRIN local RGB hardware backend
+After=graphical-session-pre.target
+PartOf=graphical-session.target
+
+[Service]
+Environment=QT_QPA_PLATFORM=offscreen
+ExecStart=/usr/bin/openrgb --server --server-host 127.0.0.1 --noautoconnect
+Restart=on-failure
+RestartSec=5
+TimeoutStartSec=90
+
+[Install]
+WantedBy=graphical-session.target

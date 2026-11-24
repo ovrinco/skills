@@ -1,0 +1,1 @@
+Output row order is header, alpha, gamma, beta. Inline strings use is/t elements. The Notes table/filter end moves from row 3 to row 4. Original bytes are unchanged. Formula and source-alias operations produce nonzero refusals.

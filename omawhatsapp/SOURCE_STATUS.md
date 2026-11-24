@@ -1,0 +1,7 @@
+# Source and runtime boundary
+
+The bundled integration is derived from OmaWhatsApp v0.13.1, source commit 7ee1540f01d4f7fb698d683577fecd57063a9204 in MoizIbnYousaf/Omarchy-Whatsapp. runtime/omawhatsapp.py is a byte-identical copy of upstream bin/omawhatsapp, renamed only for Python source distribution; omawhatsapp_assets.py is also byte-identical. The upstream MIT license and third-party notices are retained beside them. Source is available at https://github.com/MoizIbnYousaf/Omarchy-Whatsapp/tree/7ee1540f01d4f7fb698d683577fecd57063a9204 .
+
+The bridge registry names wacli 0.17.1. An installed wacli binary and separately authorized account linking are prerequisites for real operations. No account store, phone number, message/media record, wacli binary, app updater or plugin settings are supplied. Set WACLI_BIN to the receiving installation's intended binary. Configure OMAW_WHATSAPP_BIN as the absolute path to runtime/omawhatsapp.py when using the reference commands. Default state paths follow per-user XDG configuration.
+
+The public skill/reference/example adaptations use the repository's first-party license. The runtime helper remains upstream MIT material with its original notice. Synthetic tests prohibit subprocess calls and operate on static registry/argument/authorization methods only. They establish guard behavior and source readability; actual account, sync, send, receipt and media operations are untested on the receiving installation.

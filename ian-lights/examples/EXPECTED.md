@@ -1,0 +1,1 @@
+The ring buffer indices 89 through 108 inclusive carry swapped RGB values, while every other pixel remains intact. RAM is untouched by a ring write. Failed apply does not commit new state. Status and preset CRUD do not connect. Software tests pass; actual light output is separately unverified on the receiving machine.

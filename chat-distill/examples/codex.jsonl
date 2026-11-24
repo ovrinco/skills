@@ -1,0 +1,3 @@
+{"type": "session_meta", "payload": {"id": "example-codex", "timestamp": "2025-01-01T12:00:00Z", "cwd": "/example/project"}}
+{"type": "response_item", "timestamp": "2025-01-01T12:00:00Z", "payload": {"type": "message", "role": "user", "content": [{"type": "input_text", "text": "Inspect the Orchard pump."}]}}
+{"type": "response_item", "timestamp": "2025-01-01T12:01:00Z", "payload": {"type": "message", "role": "assistant", "content": [{"type": "output_text", "text": "The valve state is recorded."}]}}

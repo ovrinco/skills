@@ -1,0 +1,11 @@
+{
+  "source_skill": "rust-ovrin-conventions",
+  "source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "285c511d7db65545a6f3d7847f08322b067bac1c47fd2c9c6ba74ac4fd3afea2"
+    }
+  ],
+  "adaptation": "Public project-input workflow retaining substantive helpers and method, with synthetic fixtures and executable receiving checks.",
+  "proof": "Deterministic local receiving examples; fresh-session model behavior is not certified."
+}

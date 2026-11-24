@@ -1,0 +1,1 @@
+Atlas needs an offline format for 50,000 short local notes. JSON and SQLite are candidate approaches. A previous full-file rewrite lost updates after interruption. Decide which approach to prototype using Python standard-library facilities. No hosted service is required.

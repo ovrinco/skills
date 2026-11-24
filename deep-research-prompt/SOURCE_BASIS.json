@@ -1,0 +1,19 @@
+{
+  "source_skill": "deep-research-prompt",
+  "source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "a01dda71044baba060ce690b9c278b8a7b785946b3eb19fe7e6e4fbd5786c559"
+    },
+    {
+      "path": "scripts/check_prompt.py",
+      "sha256": "47135f180fe1a1788d009782761fca86813684e7baf01af98788f44226aa64d3"
+    },
+    {
+      "path": "scripts/restore_images.sh",
+      "sha256": "1a2f0e034b91b6ba7bc0f484ce0ddeab1bc6cac01340488dd7c49b124bcec059"
+    }
+  ],
+  "adaptation": "Public project-input workflow retaining substantive helpers and method, with synthetic fixtures and executable receiving checks.",
+  "proof": "Deterministic local receiving examples; fresh-session model behavior is not certified."
+}

@@ -1,0 +1,15 @@
+{
+  "source_skill": "pattern-mine",
+  "source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "2aeecdeff22facaa2c2b1f339aeef2d870d54050523c3ea9681650a3a959050c"
+    },
+    {
+      "path": "scripts/check_citations.py",
+      "sha256": "e422724ab561738ee7f874d0571990bb9e4bb6945eb18ba2d22507509a3b35f7"
+    }
+  ],
+  "adaptation": "Public project-input workflow retaining substantive helpers and method, with synthetic fixtures and executable receiving checks.",
+  "proof": "Deterministic local receiving examples; fresh-session model behavior is not certified."
+}

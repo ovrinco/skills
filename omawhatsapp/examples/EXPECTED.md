@@ -1,0 +1,1 @@
+The helper reports wacli registry version 0.17.1 and nonempty classified operations. Unknown operations and malformed/forbidden arguments raise a bridge error. A classified mutation with no authorization is refused. A patched subprocess.run that raises on any call is never reached by these checks. Account/runtime behavior remains untested.

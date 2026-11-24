@@ -1,0 +1,1 @@
+The selected source and symlink survive in the archive; target is excluded. The outer hash and archived selected-file hashes verify, and restore is into a new directory. The over-limit plan is rejected before an output archive exists. No original source is removed or replaced. The shipped test suite additionally verifies shared-data separation, overlap and changed-source refusal.

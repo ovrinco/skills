@@ -1,0 +1,3 @@
+# Decision table
+
+Each row names the class and exact selected identities, proposed/conditional/optional standing, expected physical bytes returned with measurement basis and uncertainty, what remains, retained-copy or rebuild evidence, current consumers, recovery cost and unresolved condition. Preserve source locators. A machine-readable subordinate inventory may carry seq, path, bytes, proof, twin, digest, device/inode, timestamps and explicit size basis. Reject overlap and changed identities. Sum only disjoint measured rows of the same standing. Explain the suggested order in prose. A copy of the approved page and subordinate manifest must share a version/hash binding.

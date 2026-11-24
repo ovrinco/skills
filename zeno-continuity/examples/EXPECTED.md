@@ -1,0 +1,1 @@
+Retain the empty-name correction and completed revision/evidence. Reject session-B due to wrong root, but do not choose between A and C by recency or prompt wording alone. Ask which exact Atlas session ID owns this continuation. Source inspection already admitted by the request can proceed independently. No native launch occurs from this exercise.

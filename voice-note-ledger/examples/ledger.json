@@ -1,0 +1,24 @@
+[
+  {
+    "id": "VN-001",
+    "category": "Action",
+    "area": "Orchard",
+    "capture": "Inspect the Orchard pump.",
+    "stance": "explicit",
+    "timing": "No deadline stated",
+    "sources": [
+      "L1"
+    ]
+  },
+  {
+    "id": "VN-002",
+    "category": "Proposal",
+    "area": "Sensors",
+    "capture": "Explore a Cedar sensor.",
+    "stance": "tentative",
+    "timing": "next month",
+    "sources": [
+      "L2"
+    ]
+  }
+]

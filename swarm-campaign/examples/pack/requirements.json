@@ -1,0 +1,10 @@
+[
+  {
+    "id": "parse-state",
+    "text": "Parse a timestamp and valve state; reject a missing timestamp without changing prior observations."
+  },
+  {
+    "id": "usage",
+    "text": "Explain the parser entry command and sample output."
+  }
+]

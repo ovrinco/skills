@@ -1,0 +1,11 @@
+{
+  "source_skill": "hand-off",
+  "source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "978665f86e9597b3915069f421eed5d39e9a2efeddb59e3a09dba3df2cff335e"
+    }
+  ],
+  "adaptation": "Public project-input workflow retaining substantive helpers and method, with synthetic fixtures and executable receiving checks.",
+  "proof": "Deterministic local receiving examples; fresh-session model behavior is not certified."
+}

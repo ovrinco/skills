@@ -1,0 +1,3 @@
+{"type": "user", "sessionId": "example-session", "timestamp": "2025-01-01T12:00:00Z", "message": {"role": "user", "content": "Build the Orchard pump monitor."}}
+{"type": "assistant", "sessionId": "example-session", "timestamp": "2025-01-01T12:01:00Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "The monitor records the valve state."}]}}
+{"type": "user", "sessionId": "example-session", "timestamp": "2025-01-01T12:02:00Z", "message": {"role": "user", "content": "Use this synthetic token sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}

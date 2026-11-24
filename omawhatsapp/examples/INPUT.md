@@ -1,0 +1,1 @@
+Inspect the real bridge registry without linking an account. Check that unknown future commands, argument arrays carrying a forbidden global flag, and a mutation lacking its required authorization fail before subprocess execution. The invented inputs must not reach WhatsApp. The capabilities report is registry metadata, not a runtime success claim.

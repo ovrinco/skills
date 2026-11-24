@@ -1,0 +1,6 @@
+{
+  "model": "Lian Li LANCOOL 216 with LAN216-1 in motherboard sync",
+  "swap_rg": true,
+  "inner": [{"zone": 2, "start": 0, "end": 8}],
+  "ring": [{"zone": 2, "start": 8, "end": 28}]
+}

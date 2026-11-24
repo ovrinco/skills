@@ -1,0 +1,1 @@
+Prepare a source-only Atlas checkpoint. Create an invented project with main.txt containing preserved, a target/cache.bin generated file, and a symlink named source-link to main.txt. Inventory it, make a new checkpoint and verify its manifest. Also attempt a plan whose selected input exceeds a 16-byte test cap. Work only in an isolated temporary directory.

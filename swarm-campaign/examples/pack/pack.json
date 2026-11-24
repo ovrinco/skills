@@ -1,0 +1,41 @@
+{
+  "source": "requirements.json",
+  "source_sha256": "0dfcb05574008fabbda4444d3f44e0e251af345626a59f7ed357cb6af59079ed",
+  "project_root": "project",
+  "protected": [
+    "private"
+  ],
+  "tasks": [
+    {
+      "id": "parser",
+      "requires": [
+        {
+          "id": "parse-state",
+          "text": "Parse a timestamp and valve state; reject a missing timestamp without changing prior observations."
+        }
+      ],
+      "writes": [
+        "monitor.py"
+      ],
+      "acceptance": [
+        "Run valid and invalid examples and check preserved prior state."
+      ]
+    },
+    {
+      "id": "docs",
+      "requires": [
+        {
+          "id": "usage",
+          "text": "Explain the parser entry command and sample output."
+        }
+      ],
+      "writes": [
+        "docs/usage.md"
+      ],
+      "acceptance": [
+        "Follow the documented sample command against the parser."
+      ]
+    }
+  ],
+  "deferred": []
+}

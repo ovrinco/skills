@@ -1,0 +1,1 @@
+A research prompt asks about interruption consistency, incremental updates, query needs and recovery. It includes the observed failure, offline requirement, counterevidence, primary references, a concrete prototype recommendation and a downloadable report.

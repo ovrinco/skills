@@ -1,0 +1,27 @@
+{
+  "source_skill": "voice-note-ledger",
+  "source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "d01e36df3ae4d0570b3387da703fc0f8d2d5a24adbe75e00aef93ce518263cb9"
+    },
+    {
+      "path": "scripts/normalize.py.LF-T06-predecessor",
+      "sha256": "1fba86fff2ed02b99bb384db1828596c7c61f4b4a1923be5e4754b6e39c774af"
+    },
+    {
+      "path": "scripts/normalize.py",
+      "sha256": "a1e2acee175f8ce015f459456b1c1f32c9cf6ada543c71f72c434308cb09ba52"
+    },
+    {
+      "path": "scripts/ledger.py.LF-T06-predecessor",
+      "sha256": "da5ae7d00c259d8f8f5e15d91422f2d8904bc6848a182aced9b32e9186c8522a"
+    },
+    {
+      "path": "scripts/ledger.py",
+      "sha256": "aec0bc5d546b921510f267e6b8bec67046407342e982f5547b735ae739be6ab4"
+    }
+  ],
+  "adaptation": "Public project-input workflow retaining substantive helpers and method, with synthetic fixtures and executable receiving checks.",
+  "proof": "Deterministic local receiving examples; fresh-session model behavior is not certified."
+}

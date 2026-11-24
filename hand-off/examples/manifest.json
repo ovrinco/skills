@@ -1,0 +1,32 @@
+[
+  {
+    "path": "BLOCKER.md",
+    "bytes": 306,
+    "sha256": "4956a7943bc4e73bbb2d7e8e5926c1c0af044aef087517d0dd26e40d92481207"
+  },
+  {
+    "path": "BRIEF.md",
+    "bytes": 191,
+    "sha256": "0ace401c5f6b112d5c39291e007ba9fd7a9a8e8ed137ab2e0aadda3e05cceebd"
+  },
+  {
+    "path": "EXPECTED.md",
+    "bytes": 132,
+    "sha256": "0b5c10d84b941f020f074dedd2b3dc9b97cb0e2f89787993c55176c6e86467f4"
+  },
+  {
+    "path": "INPUT.md",
+    "bytes": 107,
+    "sha256": "fd099e3116e6ce784f43eaa0614fccf594166ecc8305cff948fe5707cbf15b97"
+  },
+  {
+    "path": "PACK.md",
+    "bytes": 238,
+    "sha256": "53cdb263936057fb7537342c8f3fbad22637fe22be1e60cf2e30cb234336861b"
+  },
+  {
+    "path": "STATE.md",
+    "bytes": 216,
+    "sha256": "166c8f49b16aa857dc27bfbe93e1e9294a2b2500c7e3a5a0553c5365610c9356"
+  }
+]

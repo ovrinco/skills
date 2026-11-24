@@ -1,0 +1,1 @@
+Assignments preserve the supplied parse_line interface, separate ownership, identify the CLI dependency on parsing and name a combined good-input/bad-input test. The final reviewer receives the outcome and evidence. This example creates a plan.
